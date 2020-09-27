@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MedicalEmergency</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="find">Find Near by Hospital</string>
+    <string name="emergencytxt">Medical Emergency</string>
+    <string name="diseasebtn">Diseases</string>
+    <string name="searchbtn">Search Nearby Hospital</string>
+    <string name="Info">Info</string>
+    <string name="signandsymptom">Signs And Symptopms</string>
+    <string name="firstaid">First Aid</string>
+    <string name="hypothermia">Hypothermia</string>
+    <string name="hypocondition"> A condition when the entire body temperature falls.</string>
+    <string name="hyposign">Cold skin apathy, drowsiness, incoherence\nBreathing rate sluggish pupilsïƒ“\nPulse rate uncontrollable shiveringïƒ“\nSlow, thick speech apathy, drowsiness, incoherence\nStaggering walk.</string>
+    <string name="hypofirstaid">Check responsiveness\nCover with blanket\nApply hot compress\nCheck vital signs\n</string>
+    <string name="heatstroke">Heat stroke or sunstroke</string>
+    <string name="heatcondition"> A response to heat characterized by extremely high body temperature and disturbance of sweating mechanism.</string>
+    <string name="heatsign">Raised body temperature\nDry hot red skin, dark urine.\nSmall pupils, rapid or shallow breathing,\nExtreme confusion, Weakness\nSeizures, Unconsciousness.</string>
+    <string name="heatfirstaid">Cool the victim. (no alcohol rub)\nGive First Aid for shock. Lay the victim flat\nIf the victim starts having seizures, give first aid for seizures.\nKeep the victim cool as you await medical help.\n</string>
+    <string name="heartattack">Heart Attack</string>
+    <string name="heartcondition"> Impairment of heart function d/t inadequate blood flow to the heart compared to its needs, caused by obstructive changes in the coronary circulation.</string>
+    <string name="heartsign">Acute central chest pain not responding to nitrates\nPain radiating to neck/left arm\nAssociated with nausea \n silent MI.</string>
+    <string name="heartfirstaid">Give semi-sitting position\nReassure, immobilize\nCall Ambulance\nAngina medications \nAspirin chewable\nMonitor pulse breathing. \n</string>
+    <string name="Diabetes">Diabetes</string>
+    <string name="diabetescondition">Low blood sugar level causes diabetics on insulin starvation.</string>
+    <string name="diabetessign">History of diabetes\nExcess hunger\nFeeling faint or dizzy\nStrange behavior â€“ Confusion, aggression\nPalpitations, tremors\nPale, cold, sweaty skin\nLoss of consciousness.</string>
+    <string name="diabetesfirstaid">If conscious, give GLUCOSE orally till person feels better\nIf unconscious, monitor airway and breathing and seek medic help\nGive glucagon injection (keep prefilled syringe in c/o diabetes)\nIf possible, give glucose.\n</string>
+    <string name="Seizures">Seizures or Fits</string>
+    <string name="seizurecondition">paroxysmal event due to abnormal, excessive, hyper synchronous discharges from an aggregate of CNS neurons.</string>
+    <string name="seizuresign">Aura\nSudden rigidity of body â€“ tonic phase\nCollapse d/t which injuries may be sustained\nF/b periodic relaxation of muscles â€“ chronic phase.</string>
+    <string name="seizurefirstaid">Move person away from danger e.g. fire, water, furniture\nDonâ€™t try to restrain\nDonâ€™t insert anything in mouth\nAfter convulsion ceases, give recovery position\nEnsure airway is clear\nDonâ€™t leave person alone even after seizure\nReassure, support\nCall ambulance.\n</string>
+    <string name="Asthma">Asthma</string>
+    <string name="asthmacondition">Disease of airways choric. By increased responsiveness of the tracheobronchial tree to a variety of stimuli.</string>
+    <string name="asthmasign">Shortness of breath\nChest tightness or pain\nTrouble sleeping caused by shortness of breath, coughing or wheezingn ï‚§	A whistling or wheezing sound when exhaling (wheezing is a common sign of asthma in children).</string>
+    <string name="asthmafirstaid">Help the Patient to Rest\nAssist with medication\nHelp the patient take any â€˜relieverâ€™ medication they have\nCall an ambulance immediately.\n</string>
+    <string name="triggers">Triggers</string>
+    <string name="triggercondition">Allergens during weather and season change, animal fur and dander, smoke, dust, aspirin, coloring agents, Air pollutants,Infections.</string>
+    <string name="triggersign">Shortness of breath\nCough\nChest tightness\nWheezing\nAssociated symptoms â€“ inability to speak, pale skin, blueness, distress, confusion\nUltimately â€“ unconscious and ceases to breathe.</string>
+    <string name="triggerfirstaid">Move away from the thing that triggered the episode\nTake a quick relief asthma medication\nStay calm so that breathing gets better\nCall Ambulance if:\nNo response to medication\nLips/fingernails turn blue or grey\nNasal flare\nSkin is pulled around the neck and ribs when person breathes\nHeartbeat/pulse is too fast.\n</string>
+    <string name="roadaccident">Road Accident</string>
+    <string name="roadaccidentcondition">Critical four minutes: One of the most common causes of a road accident death is due to loss of oxygen supply. Normally it takes less than four minutes for a blocked airway to cause death.</string>
+    <string name="roadaccidentfirstaid">Beware of further collisions and fire\nAlert oncoming traffic to the danger ahead\nDonâ€™t allow anyone to smoke\nGet assistance from bystanders\nCall Ambulance\nDonâ€™t move casualties who remain in their vehicles, unless they are in danger by doing so.\nNever remove a motorcyclistâ€™s helmet unless deemed necessary.\nAvoid unnecessary movements\nReassurance.\n</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_search_new">SearchNew</string>
+
+</resources>

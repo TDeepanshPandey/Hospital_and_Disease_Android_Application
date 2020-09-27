@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.asd.medicalapp.MainActivity"
+    android:gravity="center_horizontal">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:id="@+id/plusimg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_plusimg"
+            android:layout_marginTop="40dp"/>
+        <TextView
+            android:id="@+id/emergencytxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/emergencytxt"
+            android:layout_below="@id/plusimg"
+            android:layout_marginTop="10dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:id="@+id/diseasebtn"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/emergencytxt"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="100dp"
+            android:text="@string/diseasebtn"
+            android:background="@drawable/buttonback"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:textStyle="bold"
+            />
+        <Button
+            android:id="@+id/searchbtn"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/diseasebtn"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="@string/searchbtn"
+            android:background="@drawable/buttonback"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/infotxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:text="@string/Info"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="15sp"/>
+    </RelativeLayout>
+</RelativeLayout>
